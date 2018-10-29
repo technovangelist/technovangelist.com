@@ -1,0 +1,10 @@
+---
+path: "/2007/01/19/200786community-server-2007-theme-html/" 
+date: "2007-01-19T18:42:26+00:00" 
+title: Community Server 2007 Theme
+tags:
+  - communityserver
+  - site-update
+
+---
+A few months ago, <a href="http://communityserver.org/">Community Server</a> 2007 was released. I updated for one main reason, a new theming engine called Chameleon. I was determined to come up with a new theme that WASN&#8217;T the paperclip or the CS tree that is on everyone else&#8217;s site. So I started from scratch to design something amazing. Unfortunately I discovered that it was a <a href="http://www.mrtvseverything.com/MrTvs.html">helluva</a> <a href="http://www.bullshitjob.com/tyahoo/">tough</a> to do it all from scratch. So I ended up with a theme that was pretty lame. When the Telligent guys announced they were doing a <a href="http://communityserver.org/blogs/announcements/archive/2007/08/03/vote.aspx" class="broken_link">theme contest</a>, I wanted in and planned to do something great, but didn&#8217;t quite get to it. The deadline came and went and I had nothing. But then they extended the deadline. Whew! But then it came again&#8230;.I noticed on the day that the time was up. Thankfully I am in Amsterdam and the 9AM CST end time was several hours away. I took the new <a href="http://communityserver.org/blogs/announcements/archive/2007/07/10/new-basic-theme-now-available-beta.aspx" class="broken_link">Basic theme</a> as a starting point and within a couple of hours, I felt I had something pretty cool. So I submitted it. I figured I would be one of a few dozen, but there were only 6 submissions. But it was so easy?!?! Whats up with that??? Anyway, <a href="http://themes.communityserver.org/files/folders/track_2/default.aspx" class="broken_link">go check out the themes</a> and vote. <a href="http://themes.communityserver.org/files/folders/track_2/entry116.aspx" class="broken_link">Mine is obviously TVBrown</a>. I screwed up a bit with the way IE shows the theme so I am going to update that soon (looks better in Firefox).

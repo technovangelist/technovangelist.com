@@ -1,0 +1,23 @@
+---
+path: "/2006/03/17/2006317a-few-new-and-wonderful-tools-html/" 
+date: "2006-03-17T13:00:00+00:00" 
+title: A few new and wonderful tools…
+tags:
+  - gadgets
+
+---
+A found a few new gadgets I am totally loving.&nbsp;
+
+<span class="full-image-block ssNonEditable"><span><img src="/static/500c9c42c4aa27cb90863e5e/50e9971de4b01058545b4678/50e9971fe4b01058545b485a/1257622969327/ScreenShot028_small.jpg/1000w" alt="" /></span></span>Every now and then I start running out of space on my hard drive. But finding where the space hogs are can be difficult. There are some interesting tools that will show a picture of your drive, but that switches context. I want to use file explorer to figure it out. So&nbsp;<a href="http://foldersize.sourceforge.net/">Folder Size</a>&nbsp;came to my rescue. Its a small install that adds a column to your Explorer window showing the size of the contents of the folder. Sweet!!!
+
+Sometimes I visit websites with &ldquo;Post&rdquo; forms that result in some sort of&nbsp;customized page. The downside to a Post Form is that the arguments do not show up on the URL so you can&rsquo;t bookmark them. This is the case with the&nbsp;<a href="http://trkcnfrm1.smi.usps.com/PTSInternetWeb/index.jsp">US Postal Service Tracking</a>. I am expecting an&nbsp;<a href="http://www.tombihn.com/page/001/PROD/300/TB0730">Empire Builder</a>&nbsp;bag from&nbsp;<a href="http://www.tombihn.com/">Tom Bihn</a>&nbsp;near Seattle and having to re-find the tracking number, entering it and clicking submit kinda sucks. So&nbsp;<a href="http://www.squarefree.com/bookmarklets/forms.html">FrmGet</a>&nbsp;and the other&nbsp;<a href="http://www.squarefree.com/bookmarklets/">bookmarklets at SquareFree</a>&nbsp;came to my rescue. I find a page with a Post form, then click my FrmGet bookmarklet to get &ldquo;Get&rdquo; versions of the form. Now the resulting page is bookmark-able. Sweet!!! Unfortunately, the bag has been sitting in Customs for nearly a week.
+
+<span class="full-image-block ssNonEditable"><span><img src="/static/500c9c42c4aa27cb90863e5e/50e9971de4b01058545b4678/50e9971fe4b01058545b485b/1257622970000/ScreenShot030_small.jpg/1000w" alt="" /></span></span>Whenever I have to think about what day a particular date is, I instantly double-click on the clock in the Windows taskbar. Sometimes I move forward to the following month, then accidently click OK. All of a sudden my PC has timewarped to next month and I have to go back. I do this even if I am in Outlook because switching to the calendar view means switching contexts in my head. Yeah, I could right click on the calendar to open it in a new window, but then I have another Outlook window. I wanted a quick popup calendar that was easy and small. So&nbsp;<a href="http://www.ipi.fi/~rainy/index.php?pn=projects&project=rainlendar">Rainlendar</a>&nbsp;came to my rescue. This is a tiny executable that takes minimal resources. I have it set up to pop up when I press F11. If I hover over any date, I see what is currently scheduled. I also can see what tasks I have and a list of appointments for the next few days. All of this is synched from Outlook. It is pretty sweet. Unfortunately its only a one way sync so I cannot make changes in Rainlendar, but I have Outlook for that.
+
+Last week I signed up for a free email subscription to a wonderful little site:&nbsp;<a href="http://www.dailycandy.com/">Daily Candy</a>. Every day I get a single well-designed and well-written blurb about something interesting. One recent item was a pointer to the online games at&nbsp;<a href="http://www.orisinal.com/">Orisinal</a>. This has nothing to do with work, but it makes the day a little more fun.
+
+Almost every other &lsquo;subscription&rsquo; I have is via RSS. But some blogs don&rsquo;t really support it.&nbsp;<a href="http://www.feedyes.com/">FeedYes</a>makes it easy to convert the site to an RSS version I can subscribe to. It seems to do a pretty decent job of it too.
+
+Finally last night I visited MediaMarkt and picked up a new Double Layer DVD burner. Last I looked (a year or two ago), DVD burners were quite pricey. I paid 100 Euros for a Philips external drive that is amazing. Yeah, its 20 euros more than if I bought online and 20 more than I would pay in the US due to the 20% tax here, but I have it now and it works.
+
+Anyway, just finished a three day Workflow class yesterday and I am off to Zagreb on Sunday to teach another one next week. Got a busy schedule coming up, with a week in Croatia, 2 at home, 1 in Portugal, 2 at home, 1 in Dubai, 1 in Paris, 2 at home, 1 in Australia, 1 in Singapore, then another in Australia. I am booked solid till June. Whew&hellip;

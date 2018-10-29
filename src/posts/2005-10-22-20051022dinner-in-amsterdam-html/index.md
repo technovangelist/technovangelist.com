@@ -1,0 +1,14 @@
+---
+path: "/2005/10/22/20051022dinner-in-amsterdam-html/" 
+date: "2005-10-22T19:44:00+00:00" 
+title: Dinner in Amsterdam
+tags:
+  - amsterdam
+  - netherlands
+
+---
+Dinner in Amsterdam&hellip;well&hellip;dinner in the Netherlands&hellip;and possibly dinner in Europe in general, is different from dinner in the US. Actually what I am thinking about is dinner out. You go to any nice restaurant in the US and you will get a good meal, service will be quick, and when you are done you get the check. You leave and someone else comes in to take your table for their turn. Of course, that is assuming that you go to a restaurant with good food and service, but thats not my point. Here in Amsterdam almost everything is the same, except at a much slower pace. And that last part doesn&rsquo;t happen because there aren&rsquo;t enough hours in the evening to allow for a second sitting.
+
+Last night I met up with a bunch from <a href="http://www.expatica.com/">Expatica</a> at <a href="http://www.uyt.nl/">Uyt</a> on Runststraat at Prinsengracht. I got there a little late&hellip;fashionably late? Well maybe just late&hellip;reservations were for 8 and I got there at about 9. They were just getting a second round of bread and had recently placed their orders. I got an order in pretty quickly after I arrived and about 10 minutes later everyone&rsquo;s first course came out, including mine: Carpaccio with parmesan cheese and a few other things that the WorldLingo site translation can&rsquo;t figure out. Sometime around 9:45 the main course came out. I had the roast of lamb in a rich sauce with mashed potatoes. Apparently one of the things this place is known for is the quality of their meats, and this dish was stunning. Around 10:45 or 11:00 the desserts came out: Pear pie with white chocolate ice cream. Then coffee and after-dinner drinks. Of course, throughout the night we went through three bottles of wine and a beer or two.
+
+We finally got out of there approaching midnight. Its not just because we were a large group (7), but that just seems to be the way meals out work here. You are given time to allow the food to digest, for conversations to flow, and just to enjoy. There is no rush. But then when I have eaten out alone, the service speeds up to accomodate the lack of conversation. Overall it turns the process of going out to eat into a much grander experience. And how much do you have to pay for such an experience? Not a lot. For the three course meal we all ate, along with 3 bottles of wine, beer, coffee, and after-dinner drinks, the shared cost between 7 came out to about 45 euros each after tip. Not a bad deal. A similar restaurant in Seattle or San Francisco with similar style of service would probably have set each person back about 75&ndash;80 dollars. Not something I will do every night, but a fun experience.

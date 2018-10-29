@@ -1,0 +1,8 @@
+---
+path: "/2006/05/09/200659why-do-the-french-even-bother-html/" 
+date: "2006-05-09T11:14:00+00:00" 
+title: Why do the French even bother…
+---
+When I first arrived in the Netherlands office I was given a 2004 Peugeot 305 SW to drive until the new leasing contracts were worked out and I could order my own car. Over the course of the next few months, I also found myself in rentals from Renault and Citroen. Simply put, these cars suck! I don&rsquo;t even know why the French bother building cars anymore. Take this Peugeot. Its about 2 years old and has low mileage but if drives as if it has done the Paris Dakar rally a dozen times. It rattles, shudders, and plods along threatening to fail any moment. Thieves recognize the car as easy pickings (based on personal experience as well as police accounts). Even the company names seem to be synonymous with &ldquo;crap&rdquo; for most people I have talked to. Granted, there are exceptions to this rule, but generally it seems to be true.
+
+Well, finally I have been able to get rid of this piece of junk. My new car got delivered on Friday. All the &ldquo;features&rdquo; that annoyed me to no end with the Peugeot are nowhere to be seen in this new vehicle. Ahhhh: Volkswagen Golf 2.0 FSi 4Motion. This thing is sweet. Not quite as fast as the GTI I had in the US, but then cars are FAR more expensive here&hellip;I couldn&rsquo;t afford it. Do I need 4Motion, VW&rsquo;s four wheel drive technology? Not really. Do I need Xenon headlights? Probably not. Do I need any of the other features of this car? I don&rsquo;t think so. But the car sure is fun to drive.

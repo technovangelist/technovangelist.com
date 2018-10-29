@@ -1,0 +1,11 @@
+.latestblog h1 {
+  color: #888;
+  font-size: 32px;
+}
+
+.otherposts h3 {
+  color: #888;
+  font-size: 20px;
+  margin-top: 25px;
+  margin-bottom: 5px;
+}

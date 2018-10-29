@@ -1,0 +1,10 @@
+---
+path: "/2007/06/27/2007627great-review-of-noise-cancellation-headphones-in-nytimes-html/" 
+date: "2007-06-27T01:33:00+00:00" 
+title: Great Review of Noise Cancellation Headphones in NYTimes
+tags:
+  - gadgets
+  - travel
+
+---
+Being a frequent flyer, I am also a frequent purchaser on technology to make the trip a little more pleasant. One of the key tools I use are a pair of headphones to block out the noise. One of the problems is that there are few good comparisons of all the choices out there. So when a&nbsp;<a href="http://www.nytimes.com/2007/06/14/technology/14pogue.html?pagewanted=1&ei=5090&en=3eecb6e55fca32be&ex=1339473600&adxnnl=0&partner=rssuserland&emc=rss&adxnnlx=1182877559-xywisa6wv/CtCVY4bv6eXQ">review shows up from David Pogue of the New York Times</a>, I had to read it. The obvious winner in this review was the&nbsp;<a href="http://www.bose.com/controller?event=VIEW_PRODUCT_PAGE_EVENT&product=qc3_headphones_index&ck=0">Bose</a>&nbsp;offerings. But a few surprise runner-ups were Panasonic and Audio-Technica headphones. Surprising because they are significantly cheaper. I own a pair of the original Bose headphones which are very comfy but unfortunately way to big to fit in my Tom Binh&nbsp;<a href="http://www.tombihn.com/page/001/PROD/300/TB0730">Empire Builder</a>along with everything else in there. I have also owned various pairs of Sony&#8217;s which while smaller offer pretty weak noise-cancellation. Now I carry one of two different pairs of headphones, solely based on which is closer at hand when I pack my bag. They are actually noise-suppression instead of noise-cancellation, but they do almost as good a job as the Bose at a fraction of the size. First is the<a href="http://www.etymotic.com/ephp/er6.aspx">Etymotics ER6</a>&nbsp;($140)&nbsp;and the&nbsp;<a href="http://shure.com/PersonalAudio/Products/Earphones/ESeries/us_pa_E5c_content" class="broken_link">Shure E5C</a>&nbsp;($450). I think I prefer the Shure&#8217;s but that may just be me trying to justify the extra cost. But since I have been on planes for over 160 hours so far this year, that&#8217;s a pretty small price to pay for a little more comfort.
