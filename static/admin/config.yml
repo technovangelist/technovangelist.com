@@ -12,4 +12,4 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: "true"}
-      - {label: "Content", name: "content"}
+      - {label: "Content", name: "content", widget: "markdown"}
