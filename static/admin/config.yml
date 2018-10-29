@@ -12,4 +12,30 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: "true"}
-      - {label: "Content", name: "content", widget: "markdown"}
+      - {label: "Content", name: "body", widget: "markdown"}
+  - name: "talks"
+    label: "Talk"
+    folder: "src/talks"
+    create: true
+    slug: "{{year}}-{{month}}-{{conference}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Conference", name: "conference", widget: "string"}
+      - {label: "Location", name: "location", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "URL", name: "url", widget: "string"}
+      - {label: "Conference URL", name: "conferenceurl", widget: "string"}
+      - {label: "SpeakerDeck ID", name: "speakerdeckid", widget: "string"}
+      - {label: "Content", name: "body", widget: "markdown"}
+
+
+
+      title: Cloud Foundry Monitoring using Datadog
+conference: Cloud Native New York
+location: New York, NY
+date: 2018-09-20
+time: 6:00PM
+tags:
+url: https://www.meetup.com/Cloud-Native-New-York/events/254251378
+conferenceurl: 
+speakerdeckid: e5efbf98cd7e4514840aee2774e7082c
