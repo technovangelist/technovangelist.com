@@ -1,3 +1,14 @@
 backend:
-    name: bitbucket
-    repo: technovangelist/technovangelist
+  name: bitbucket
+  repo: technovangelist/technovangelist
+media_folder: "static/images"
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "src/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "title", name: "title", widget: "string"}
+      - {label: "date", name: "date", widget: "datetime"}
+      - {label: "draft", name: "draft", widget: "boolean", default: "true"}
