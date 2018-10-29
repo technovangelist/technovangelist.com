@@ -11,7 +11,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Draft", name: "draft", widget: "boolean", default: "true"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Content", name: "body", widget: "markdown"}
   - name: "talks"
     label: "Talk"
@@ -23,7 +23,7 @@ collections:
       - {label: "Conference", name: "conference", widget: "string"}
       - {label: "Location", name: "location", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "URL", name: "url", widget: "string"}
-      - {label: "Conference URL", name: "conferenceurl", widget: "string"}
-      - {label: "SpeakerDeck ID", name: "speakerdeckid", widget: "string"}
+      - {label: "URL", name: "url", widget: "string", optional: true}
+      - {label: "Conference URL", name: "conferenceurl", widget: "string", optional: true}
+      - {label: "SpeakerDeck ID", name: "speakerdeckid", widget: "string", optional: true}
       - {label: "Content", name: "body", widget: "markdown"}
