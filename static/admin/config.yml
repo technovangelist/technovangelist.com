@@ -4,11 +4,12 @@ backend:
 media_folder: "static/images"
 collections:
   - name: "posts"
-    label: "Posts"
+    label: "Post"
     folder: "src/posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "title", name: "title", widget: "string"}
-      - {label: "date", name: "date", widget: "datetime"}
-      - {label: "draft", name: "draft", widget: "boolean", default: "true"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: "true"}
+      - {label: "Content", name: "content"}
