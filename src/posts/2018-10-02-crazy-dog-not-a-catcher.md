@@ -1,11 +1,14 @@
 ---
-title: "I have a crazy dog that isn't much of a catcher"
-date: 2018-10-02T15:19:21
-draft: false
+title: I have a crazy dog that isn't much of a catcher
+date: 2018-10-02T15:19:21.000Z
 ---
 This morning I posted a video on IGTV. It's about Jade and her amazing skills as a dog. Catch is a common game dogs like, right? ummmm, well, not so much. Well, she enjoys it, she just doesn't play the way you expect.
 
 I would love it if I could embed an IGTV video, but I can't. The more I play with it, the less useful IGTV seems to be. Here is the URL for the IGTV page:  https://www.instagram.com/technovangelist/channel/
+
+
+![catch](blob:https://eager-curran-3f8a55.netlify.com/92be203e-4eb3-4ab5-a977-0e3e3582d725) 
+
 
 Be sure to follow me on Instagram. [I am technovangelist there too](https://www.instagram.com/technovangelist/).
 
