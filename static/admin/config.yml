@@ -23,7 +23,7 @@ collections:
       - {label: "Conference", name: "conference", widget: "string"}
       - {label: "Location", name: "location", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "URL", name: "url", widget: "string", optional: true}
-      - {label: "Conference URL", name: "conferenceurl", widget: "string", optional: true}
-      - {label: "SpeakerDeck ID", name: "speakerdeckid", widget: "string", optional: true}
+      - {label: "URL", name: "url", widget: "string", required: false}
+      - {label: "Conference URL", name: "conferenceurl", widget: "string", required: false}
+      - {label: "SpeakerDeck ID", name: "speakerdeckid", widget: "string", required: false}
       - {label: "Content", name: "body", widget: "markdown"}
