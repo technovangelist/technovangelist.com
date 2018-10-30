@@ -2,7 +2,7 @@
 title: How Trek10 Uses Datadog's Distributed Tracing to Improve AWS Lambda Projects
 conference: 'AWS re:Invent'
 location: Las Vegas
-date: 2018-10-30T21:07:49.770Z
+date: 2018-11-29T21:00:49.770Z
 url: >-
   https://www.portal.reinvent.awsevents.com/connect/search.ww?trk=null#loadSearch-searchPhrase=srv304&searchType=session&tc=0&sortBy=abbreviationSort&p=
 conferenceurl: 'https://reinvent.awsevents.com/'
