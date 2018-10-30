@@ -12,7 +12,7 @@ I would love it if I could embed an IGTV video, but I can't. The more I play wit
 
 Be sure to follow me on Instagram. [I am technovangelist there too](https://www.instagram.com/technovangelist/).
 
-PS. we are still working on potty training. She is mostly really good, but we are hoping this will help solve some of the gaps: Rocco & Roxie Stain & Odor Eliminator - https://amzn.to/2OukrGJ
+PS. we are still working on potty training. She is mostly really good, but we are hoping this will help solve some of the gaps: Rocco & Roxie Stain & Odor Eliminator - https://amzn.to/2Q77TTf
 
 ## Comments?
 
