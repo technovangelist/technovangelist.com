@@ -1,8 +1,6 @@
 backend:
   name: git-gateway
   repo: technovangelist/technovangelist.com
-  accept_roles:
-    - admin
 publish_mode: editorial_workflow
 media_folder: "static/images"
 collections:
