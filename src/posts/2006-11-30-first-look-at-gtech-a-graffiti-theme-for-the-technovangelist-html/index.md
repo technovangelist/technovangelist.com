@@ -1,5 +1,5 @@
 ---
-path: "-0001-11-30-2008512first-look-at-gtech-a-graffiti-theme-for-the-technovangelist-html"
+
 date: "2006-11-30"
 title: First Look at GTech (a Graffiti theme for the Technovangelist)
 tags:

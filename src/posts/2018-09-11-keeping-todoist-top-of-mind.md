@@ -9,7 +9,7 @@ How do you keep track of the stuff you need to get done? How do you ensure you a
 
 But as with any application you use to track tasks, its only any good if you remember to use it. I have been known to forget to keep it open...for weeks. And then the information gets out of date.
 
-![My Touch Bar](./mytouchbar.png)
+![My Touch Bar](/images/mytouchbar.png)
 
 Recently however I have been much better about keeping everything in sync. The trick has been to use the incredible Touch Bar on the MacBook Pro to keep stats top of mind. Ideally I want to keep tasks in a project and out of the Inbox. If there is anything in my Todoist Inbox, I can see how many highlighted on the TouchBar. I want to know if there is anything due in the next 24 hours and so I see how many of those are coming up on the Touch Bar as well.
 
@@ -28,7 +28,7 @@ To get this onto the Touch Bar, you are going to need the amazing [Better Touch 
 Once you have it installed, go to the TouchBar section. I am not sure what general settings you need, but here is what I have:
 
 
-![my setting](./bttsettings.png)
+![my setting](/images/bttsettings.png)
 
 The actual Todoist component is made of 5 items: 3 buttons and 2 widget. Basically there are two endcaps that are buttons. Then the Todoist icon is a button. The two widgets are scripts.
 

@@ -1,5 +1,4 @@
 ---
-path: "-0001-11-30-2007913the-power-of-the-blog-html"
 date: "2006-11-30"
 title: The Power of the Blog
 tags:
