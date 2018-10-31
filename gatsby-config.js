@@ -49,10 +49,10 @@ module.exports = {
             resolve: 'gatsby-remark-embed-video',
             options: {
               width: 800,
-              ratio: 1.77, 
-              height: 400, 
-              related: false, 
-              noIframeBorder: true, 
+              ratio: 1.77,
+              height: 400,
+              related: false,
+              noIframeBorder: true,
             },
           },
           {
@@ -94,6 +94,12 @@ module.exports = {
       resolve: 'gatsby-plugin-typography',
       options: {
         pathToConfigModule: 'src/utils/typography',
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-103789998-1',
       },
     },
   ],
