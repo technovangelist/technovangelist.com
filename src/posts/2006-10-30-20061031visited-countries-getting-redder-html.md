@@ -1,6 +1,19 @@
 ---
 title: Visited Countries Getting Redder
 date: '2006-10-30T23:15:00+00:00'
+tags:
+  - amsterdam
+  - australia
+  - croatia
+  - dubai
+  - hungary
+  - netherlands
+  - norway
+  - portugal
+  - san francisco
+  - seattle
+  - singapore
+  - slovakia
 ---
 Every now and then I like to check out the <a href="//douweosinga.com/projects/visitedcountries">Visited Countries</a> page to see how much of the world I have covered. Here are my current results.
 
