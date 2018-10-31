@@ -7,7 +7,7 @@ This morning I posted a video on IGTV. It's about Jade and her amazing skills as
 I would love it if I could embed an IGTV video, but I can't. The more I play with it, the less useful IGTV seems to be. Here is the URL for the IGTV page:  https://www.instagram.com/technovangelist/channel/
 
 
-![catch](/images/screenshot-2018-10-30-17.32.57.png) 
+[![catch](/images/screenshot-2018-10-30-17.32.57.png)](https://www.instagram.com/technovangelist/channel/)
 
 
 Be sure to follow me on Instagram. [I am technovangelist there too](https://www.instagram.com/technovangelist/).
