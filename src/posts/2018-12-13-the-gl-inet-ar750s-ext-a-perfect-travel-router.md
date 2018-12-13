@@ -1,6 +1,6 @@
 ---
 title: 'The GL-iNet AR750S-Ext: A perfect travel router?'
-date: 2018-12-13T15:00:00.000Z
+date: 2018-12-13T15:30:00.000Z
 tags:
   - gl-inet
   - ar750s-ext
