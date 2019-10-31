@@ -1,6 +1,6 @@
 ---
 title: My first day with the Airpods Pro
-date: 2019-10-31T14:39:11.984Z
+date: 2019-10-31T12:39:11.984Z
 ---
 Yesterday I was riding from the nearby T station towards the center of town to pick up our daughter from our nanny share. As always, I heard the surrounding traffic while listening to a podcast. After docking at the Blue Bike station at the end of my route, I lifted my hand to my ear and held the stem of my ear buds for a second and whoosh. The world went away. This is what it's like to have the new AirPods Pro in my ears. I hear the noise when I need it and don’t when I want it to go away. 
 
