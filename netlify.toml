@@ -2,3 +2,4 @@
   package = "netlify-plugin-gatsby-cache"
 [build.environment]
   NODE_VERSION = "12.10.0"
+  RUBY_VERSION = "2.6.2"
