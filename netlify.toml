@@ -7,4 +7,3 @@
   from = "https://technovangelist.com/pkb/*"
   to = "https://publish.obsidian.md/serve?url=technovangelist.com/:splat"
   status = 200
-  force = true
