@@ -4,6 +4,6 @@
   NODE_VERSION = "12.10.0"
   RUBY_VERSION = "2.6.2"
 [[redirects]]
-  from = "https://technovangelist.com/pkb/*"
-  to = "https://publish.obsidian.md/serve?url=technovangelist.com/:splat"
+  from = "https://technovangelist.com/notes/pkb/*"
+  to = "https://publish.obsidian.md/serve?url=technovangelist.com/pkb/:splat"
   status = 200
